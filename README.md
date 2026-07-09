@@ -127,6 +127,6 @@ The agent can generate:
 
 ## Author
 
-**Kumar Veeresh**
+**Kavya Rani**
 
 B.Tech CSE (2025)
